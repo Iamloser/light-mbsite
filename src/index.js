@@ -10,6 +10,7 @@ function component() {
 
     var myDoge = new Image();
     myDoge.src = doge;
+    myDoge.alt = "doge hhh"
     element.appendChild(myDoge);
     return element;
 }
