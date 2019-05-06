@@ -15,4 +15,8 @@ function component() {
     return element;
 }
 
+function justtest() {
+    console.log('test')
+}
+
 document.body.appendChild(component());
