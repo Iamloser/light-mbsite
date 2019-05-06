@@ -1,0 +1,33 @@
+{
+  "name": "light-mbsite",
+  "version": "1.0.0",
+  "description": "使用Vue + webpack4 开发轻量级移动网站",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "vue": "^2.6.8"
+  },
+  "devDependencies": {
+    "css-loader": "^2.1.1",
+    "file-loader": "^3.0.1",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2",
+    "vue-loader": "^15.7.0",
+    "vue-template-compiler": "^2.6.8",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iamloser/light-mbsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iamloser/light-mbsite/issues"
+  },
+  "homepage": "https://github.com/Iamloser/light-mbsite#readme"
+}
